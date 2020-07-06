@@ -1,0 +1,11 @@
+{
+    "require": {
+        "pecee/simple-router": "4.2.0.6",
+        "laravel/helpers": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Taco\\": "app/"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "tacos": [
+    {
+      "name": "lorem2",
+      "tortilla": "ipsum2",
+      "toppings": "chicken",
+      "vegetarian": "false",
+      "soft": "true"
+    },
+    {
+      "name": "chicken_taco",
+      "tortilla": "flour",
+      "toppings": "chicken",
+      "vegetarian": false,
+      "soft": true
+    },
+    {
+      "name": "al_pastor_taco",
+      "tortilla": "corn",
+      "toppings": "pork",
+      "vegetarian": false,
+      "soft": true
+    },
+    {
+      "name": "veggie_taco",
+      "tortilla": "spinach",
+      "toppings": "veggies",
+      "vegetarian": true,
+      "soft": true
+    }
+  ]
+}
